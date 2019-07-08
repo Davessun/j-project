@@ -1,1 +1,2 @@
-# j-project
+# javascript-project
+Setting up Javascript project environment
